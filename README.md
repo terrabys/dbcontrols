@@ -7,7 +7,7 @@ this script also can start every DBs respective GUI application i.e. MySQL Workb
 
 ### Installation:
   Downlaod or copy to .cmd or .bat file
-
+  
 ### Configuration:
   ![image](https://user-images.githubusercontent.com/17948952/185748236-9b9fac2a-50e1-4d65-9c97-3497056122f7.png)
   
@@ -27,7 +27,11 @@ this script also can start every DBs respective GUI application i.e. MySQL Workb
   
   ![image](https://user-images.githubusercontent.com/17948952/185748969-7e9cf94c-620f-448d-be61-d2aae0f5049d.png)
   
+### Usage:
+  Choose corresponding number from the menu:  
+  ![image](https://user-images.githubusercontent.com/17948952/185750758-922d4c11-5d0d-4d1a-919c-bd0a720311ca.png)
+  
 ### Requirements:
   In order to work properly this script must be run as Administrator to have the ability to start or stop services on your computer
-  there’s a privilege check at the start of the script the following message with appear if script doesn’t have admin privileges:
+  there’s a privilege check at the start of the script the following message with appear if script doesn’t have admin privileges:  
   ![image](https://user-images.githubusercontent.com/17948952/185749729-0bcbf1ac-444a-4cea-863a-128855de5b17.png)
